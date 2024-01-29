@@ -1,6 +1,7 @@
 // Import required packages
 const express = require('express');
 const http = require('http');
+const bodyParser = require('body-parser');
 
 // Create Express instance
 const app = express();
