@@ -1,0 +1,26 @@
+{
+	"name": "tech-441-files",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/UJ-TECH-441/tech-441-files.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/UJ-TECH-441/tech-441-files/issues"
+	},
+	"homepage": "https://github.com/UJ-TECH-441/tech-441-files#readme",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"express": "~4.16.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
+}
